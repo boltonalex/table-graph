@@ -37,3 +37,16 @@
     transform: translateY(0px)
   }
 }
+
+
+.label {
+  display: inline-block;
+  width: 120px;
+}
+
+
+#chart {
+  background: #fff;
+  width: 90%;
+  margin: 1px auto;
+}
